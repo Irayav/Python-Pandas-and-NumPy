@@ -3,6 +3,6 @@ Jupyter Assignments, utilizing Python, Pandas and NumPy to identify trends prese
 
 ## Visual Analysis of the Titanic Data Set: Demographics of Passengers
 
-https://github.com/Irayav/Python-Pandas-and-NumPy/blob/master/Exploratory%20Analysis%20and%20Visualization.ipynb
+[project link](https://github.com/Irayav/Python-Pandas-and-NumPy/blob/master/Exploratory%20Analysis%20and%20Visualization.ipynb)
 
 Data: Titanic Data Set
