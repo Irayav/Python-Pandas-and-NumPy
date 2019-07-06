@@ -6,6 +6,6 @@ As seemingly one of the few exceptions to the rest of the world population, I ha
 
 ## Objective:
 
-Generate clean and elegant visuals that are key to telling a coherent story around demographics of the doomed Titanic passengers.
+Generate clean and elegant visuals that are key to telling a story about demographics of the doomed Titanic passengers.
 
 [Jupyter Notebook link](https://github.com/Irayav/Python-Pandas-and-NumPy/blob/master/Exploratory%20Analysis%20and%20Visualization.ipynb)
